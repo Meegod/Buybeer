@@ -1,0 +1,43 @@
+.btn-lg-tweet{
+    padding:1.3rem 3.0rem;
+    border-radius:2.8rem;
+    min-width:35px;
+}
+.form-letter h1,p{
+    color:#00acee;
+}
+    .bg-tweet{
+    	background-color: #f8f9fae8!important;
+    padding: 4em;
+    border-radius: 3em;
+    }
+
+.tweet-btn{
+	text-decoration: none;
+    color:#00acee;
+    font-size: 1em;
+}
+
+.tweet-btn >a{
+	  color: #00acee !important;
+
+}
+.form >a i{
+		  color: #00acee !important;
+
+}
+.form{
+	  background-color: #fefefe;
+
+}
+section .form{
+	background-color: #808080 !important;
+}
+.bxl-twitter{
+	position: relative;
+	left:0.6em;
+	top:0.1em;
+}
+.form-letter{
+    text-align: center;
+  }
