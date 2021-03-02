@@ -21,9 +21,10 @@ html{
 }
 body{
   overflow-x: hidden !important;
+  overflow-y: hidden !important;
 }
 ::-webkit-scrollbar {
-    display: none;
+ /*   display: none;*/
 }
 ::-moz-scrollbar {
     display: none;
@@ -450,8 +451,11 @@ body{
   color: white;
 
 }
-@media (min-width: 996px){
+@media (min-width: 991px){
+  body{
+      overflow-y: scroll; /* Show vertical scrollbar */
 
+  }
 }
 
 
