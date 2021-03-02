@@ -1,13 +1,4 @@
-/**
-* Template Name: Arsha - v2.3.1
-* Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -1726,4 +1717,13 @@ footer{
 .nav  ul >a{
   text-decoration: none;
   color: white;
+}
+@media (max-width: 500px) {
+  .pt-mobile{
+    margin-top: 2.9em;
+    margin-right: 2em;
+  }
+  .pt-mobile i{
+    margin-right: 3em;
+  }
 }
