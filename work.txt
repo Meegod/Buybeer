@@ -1,0 +1,13 @@
+
+
+    place  an item 
+.table-responsivde{
+position: relative;
+    left: 20%;
+}
+
+  .bg-jumbo {
+    position: relative;
+    left: 90px;
+    background-color: #fcfdff;
+}
